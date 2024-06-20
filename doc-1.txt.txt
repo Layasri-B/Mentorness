@@ -1,2 +1,0 @@
-document 1
-this is another file
